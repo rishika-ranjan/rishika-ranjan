@@ -1,6 +1,6 @@
 ### Hi there 👋
 <br>
-Author-This is my name Rishika Ranjan
+Author-This is my name Rishika Ranjan(ra)
 
 
 <!--
