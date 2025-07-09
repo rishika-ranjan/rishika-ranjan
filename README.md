@@ -18,6 +18,6 @@ I'm a passionate software developer with a strong interest in backend developmen
 🔗 [View on GitHub](https://github.com/your-username/react-covid-tracker)
 ### 📫 Connect with Me
 - 📧 Email: rishikaranjan456@gmail.com  
-- 💼 [LinkedIn](www.linkedin.com/in/rishika-ranjan-5a0704281)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/rishika-ranjan-5a0704281/)  
 - 🧠 [LeetCode](https://leetcode.com/u/rishika456ranjan/)
 - Thanks for visiting my profile! ⭐
